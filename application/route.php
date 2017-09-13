@@ -12,14 +12,7 @@
 use think\Route;
 //批量注册GET路由
 Route::get([
-	'/'=>'index/Index/index', //首页
-	'login'=>'index/Index/Login', //登录
-	'register'=>'index/Index/register', //注册
-	'resume' => 'index/Resume/index',	//简历列表
-	'create' => 'index/Resume/create',
-	'addWork' => 'index/Resume/addWork',
-
-	'showResume/:resumeId'=>['index/Resume/showResume?id=455',['ext'=>'shtml'],['resumeId'=>'\d{1,4}']],
+	'/' =>'user/Index/index',
 ]);
 
 

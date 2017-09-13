@@ -14,6 +14,11 @@ use alySms\api_demo\SmsDemo;
 class Index extends Controller
 {
 
+    public function index()
+    {
+        return 111;
+    }
+
     /**
      * 用户登录
      * @access public

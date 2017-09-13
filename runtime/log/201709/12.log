@@ -1,0 +1,628 @@
+---------------------------------------------------------------
+[ 2017-09-12T09:40:59+08:00 ] ::1 ::1 GET /Mtask/public/
+[ info ] localhost/Mtask/public/ [运行时间：0.613035s][吞吐率：1.63req/s] [内存消耗：1,630.49kb] [文件加载：41]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'referer' => 'http://localhost/Mtask/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 's=1366x629_1366x768',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:41:33+08:00 ] ::1 ::1 GET /Mtask/public/Index/index
+[ info ] localhost/Mtask/public/Index/index [运行时间：0.080005s][吞吐率：12.50req/s] [内存消耗：1,628.70kb] [文件加载：42]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:41:41+08:00 ] ::1 ::1 GET /Mtask/public/Login
+[ info ] localhost/Mtask/public/Login [运行时间：0.043003s][吞吐率：23.25req/s] [内存消耗：1,630.36kb] [文件加载：41]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'Login',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cookie' => 's=1366x629_1366x768',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:42:16+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,629.78kb] [文件加载：41]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:42:21+08:00 ] 127.0.0.1 127.0.0.1 GET /login
+[ info ] task.com/login [运行时间：0.036003s][吞吐率：27.78req/s] [内存消耗：1,629.76kb] [文件加载：41]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'Login',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:44:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.025001s][吞吐率：40.00req/s] [内存消耗：1,477.98kb] [文件加载：36]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:46:36+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.028002s][吞吐率：35.71req/s] [内存消耗：1,478.08kb] [文件加载：36]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:46:41+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,631.35kb] [文件加载：41]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:47:04+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.038002s][吞吐率：26.31req/s] [内存消耗：1,619.02kb] [文件加载：41]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:47:07+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：1,619.02kb] [文件加载：41]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:47:24+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,628.55kb] [文件加载：42]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:47:59+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.115007s][吞吐率：8.70req/s] [内存消耗：1,938.65kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:49:09+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.051002s][吞吐率：19.61req/s] [内存消耗：1,627.29kb] [文件加载：42]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:49:43+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.053003s][吞吐率：18.87req/s] [内存消耗：1,618.00kb] [文件加载：42]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:50:13+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.061004s][吞吐率：16.39req/s] [内存消耗：1,619.41kb] [文件加载：42]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:50:20+08:00 ] 127.0.0.1 127.0.0.1 POST /
+[ info ] task.com/ [运行时间：0.049003s][吞吐率：20.41req/s] [内存消耗：1,928.63kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'origin' => 'chrome-extension://aejoelaoggembcahagimdiliamlcdmfm',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:51:19+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.038002s][吞吐率：26.31req/s] [内存消耗：1,928.40kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:54:03+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.045002s][吞吐率：22.22req/s] [内存消耗：1,928.61kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:54:33+08:00 ] 192.168.5.148 192.168.5.130 GET /login
+[ info ] task.com/login [运行时间：0.039002s][吞吐率：25.64req/s] [内存消耗：1,619.55kb] [文件加载：42]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:55:14+08:00 ] 192.168.5.148 192.168.5.130 GET /login
+[ info ] task.com/login [运行时间：0.048003s][吞吐率：20.83req/s] [内存消耗：1,619.71kb] [文件加载：42]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:55:22+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,928.40kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:55:36+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.053003s][吞吐率：18.87req/s] [内存消耗：1,928.40kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:55:36+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：1,928.40kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:55:37+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.038002s][吞吐率：26.31req/s] [内存消耗：1,928.40kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:55:37+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.035002s][吞吐率：28.57req/s] [内存消耗：1,928.40kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:55:37+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.034002s][吞吐率：29.41req/s] [内存消耗：1,928.40kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:55:49+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.045002s][吞吐率：22.22req/s] [内存消耗：1,928.40kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:55:51+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.036002s][吞吐率：27.78req/s] [内存消耗：1,928.40kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:56:03+08:00 ] 127.0.0.1 127.0.0.1 POST /
+[ info ] task.com/ [运行时间：0.054003s][吞吐率：18.52req/s] [内存消耗：1,928.72kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'origin' => 'chrome-extension://aejoelaoggembcahagimdiliamlcdmfm',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'content-type' => 'application/x-www-form-urlencoded',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:56:13+08:00 ] 192.168.5.148 192.168.5.130 GET /login
+[ info ] task.com/login [运行时间：0.032002s][吞吐率：31.25req/s] [内存消耗：1,619.55kb] [文件加载：42]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:56:33+08:00 ] 192.168.5.148 192.168.5.130 GET /
+[ info ] task.com/ [运行时间：0.033001s][吞吐率：30.30req/s] [内存消耗：1,619.45kb] [文件加载：42]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:56:58+08:00 ] 192.168.5.148 192.168.5.130 POST /
+[ info ] task.com/ [运行时间：0.033002s][吞吐率：30.30req/s] [内存消耗：1,928.85kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'content-length' => '0',
+  'cache-control' => 'no-cache',
+  'origin' => 'chrome-extension://fhbjgbiflinjbdggehcddcbncdddomop',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'postman-token' => '612eb6f0-3ad0-4c28-2781-303b512ef6cc',
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:59:05+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.037002s][吞吐率：27.03req/s] [内存消耗：1,619.34kb] [文件加载：42]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2017-09-12T09:59:52+08:00 ] 127.0.0.1 127.0.0.1 GET /
+[ info ] task.com/ [运行时间：0.040002s][吞吐率：25.00req/s] [内存消耗：1,928.32kb] [文件加载：46]
+[ info ] [ LANG ] E:\project\Mtask\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'user',
+    1 => 'Index',
+    2 => 'index',
+  ),
+  'convert' => false,
+)
+[ info ] [ HEADER ] array (
+  'host' => 'task.com',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\user\controller\Index->index[ E:\project\Mtask\application\user\controller\Index.php ]
+[ info ] [ LOG ] INIT File
